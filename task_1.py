@@ -1,6 +1,4 @@
 import requests
-import json
-import pprint
 
 def read_json(url, heroes):
     heroes_iq = {}
